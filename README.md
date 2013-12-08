@@ -16,8 +16,11 @@ I offer no warranty with this software and take no responsibility for consequenc
 
 Notes:
 -This application is tailored to my exacting needs so I apologize if it is not appropriate for you. I happen to use ltc.kattare.com as my mining pool and wanted to keep on top of my balance there.
+
 -The htmlFormat function exists because I couldn't figure out how to get MetaWidget (Android) to grab data from the page without them.
+
 -BTC is in mBTC
+
 -Some of these functions were taken from other projects of my own, so they may have unecessary functionality for the scope of this applicaiton.
 
 This text can be found in both README.md and index.php. index.php is the only file required for this application to function.
