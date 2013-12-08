@@ -10,6 +10,7 @@ Provides six API calls for fetching Litecoin ltc.kattare.com mining balance, LTC
 
 Contributions greatly accepted if you like my work :)
 Bitcoin:  169g4J29hQAhwHHjMJdzyA6VpkGngmdxRf
+Litecoin: LbRXVfvUDUnYohUgFq8wNnWt6WvP7rcL5N
 
 License & Disclaimer:
 This is the first code I have publicly shared so I don't really know anything about licensing.
