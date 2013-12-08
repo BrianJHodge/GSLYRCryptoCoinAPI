@@ -6,6 +6,7 @@ Provides six API calls for fetching Litecoin ltc.kattare.com mining balance, LTC
 ######    Litecoin & Bitcoin Balance and Exchange Rate Server    ######
 ######          Developer: BrianJHodge (GSlayerBrian)            ######
 ######         Copyright 2013-2014 Game Slayer Studios           ######
+######                  www.gameslayer.org                       ######
 
 Contributions greatly accepted if you like my work :)
 Bitcoin:  169g4J29hQAhwHHjMJdzyA6VpkGngmdxRf
