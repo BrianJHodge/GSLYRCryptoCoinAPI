@@ -15,6 +15,7 @@ Suffice to say that any and all parties may freely modify and redistribute this 
 I offer no warranty with this software and take no responsibility for consequences of its use.
 
 Notes:
+
 -This application is tailored to my exacting needs so I apologize if it is not appropriate for you. I happen to use ltc.kattare.com as my mining pool and wanted to keep on top of my balance there.
 
 -The htmlFormat function exists because I couldn't figure out how to get MetaWidget (Android) to grab data from the page without them.
