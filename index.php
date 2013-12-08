@@ -3,8 +3,12 @@
 ######    Litecoin & Bitcoin Balance and Exchange Rate Server.    ######
 ######          Developer: BrianJHodge (GSlayerBrian)             ######
 ######         Copyright 2013-2014 Game Slayer Studios            ######
+######                  www.gameslayer.org                       ######
 
 /*
+Contributions greatly accepted if you like my work :)
+Bitcoin:  169g4J29hQAhwHHjMJdzyA6VpkGngmdxRf
+
 #License & Disclaimer:
 This is the first code I have publicly shared so I don't really know anything about licensing.
 Suffice to say that any and all parties may freely modify and redistribute this software and  may use it for any purpose as long as original attribution remains above.
