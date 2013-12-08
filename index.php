@@ -25,7 +25,7 @@ This text can be found in both README.md and index.php. index.php is the only fi
 
 $bitcoinAddress = '{YOUR_BITCOIN_ADDRESS}';
 
-$kattare_api_key = '{YOUR_LTC.KATTARE.COM_API_KEY';
+$kattare_api_key = '{YOUR_LTC.KATTARE.COM_API_KEY}';
 
 /* BTC */
 
