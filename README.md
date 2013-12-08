@@ -20,6 +20,14 @@ Suffice to say that any and all parties may freely modify and redistribute this 
 
 I offer no warranty with this software and take no responsibility for consequences of its use.
 
+
+Usage:
+
+Call index.php with ?c=ltc or ?c=btc, and then &balance, &exchangeRate, or &bothBalances
+
+Add &formatted=1 to add HTML tags which help it play nicer with MetaWidget
+
+
 Notes:
 
 -This application is tailored to my exacting needs so I apologize if it is not appropriate for you. I happen to use ltc.kattare.com as my mining pool and wanted to keep on top of my balance there.
