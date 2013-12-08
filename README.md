@@ -9,7 +9,9 @@ Provides six API calls for fetching Litecoin ltc.kattare.com mining balance, LTC
 ######                  www.gameslayer.org                       ######
 
 Contributions greatly accepted if you like my work :)
+
 Bitcoin:  169g4J29hQAhwHHjMJdzyA6VpkGngmdxRf
+
 Litecoin: LbRXVfvUDUnYohUgFq8wNnWt6WvP7rcL5N
 
 License & Disclaimer:
