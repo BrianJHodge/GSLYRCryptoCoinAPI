@@ -23,7 +23,7 @@ I offer no warranty with this software and take no responsibility for consequenc
 
 Usage:
 
-Call index.php with ?c=ltc or ?c=btc, and then &balance, &exchangeRate, or &bothBalances
+Call index.php with ?c=ltc or ?c=btc, and then &q=balance, &q=exchangeRate, or &q=bothBalances
 
 Add &formatted=1 to add HTML tags which help it play nicer with MetaWidget
 
